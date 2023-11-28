@@ -1,1 +1,1 @@
-# Flask & Azure AI
+# Text Translation is a cloud-based feature of the Azure AI Translator service and is part of the Azure AI service family of REST APIs. The Text Translation API translates text between language pairs across all supported languages and dialects. 
